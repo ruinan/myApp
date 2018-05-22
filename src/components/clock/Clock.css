@@ -1,0 +1,8 @@
+.clock_container {
+    position: relative;
+    display: block;
+    width: 8rem;
+    height: 8rem;
+    background: transparent;
+    margin: 0 auto;
+}
